@@ -1,10 +1,10 @@
-## First Name Last Name
+## Connor Hardee
 
-### Term Year 
+### Summer 20021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+Introduction to Data
 
 - Course 2
 
@@ -16,12 +16,12 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 I am _passionate about_: 
 
-- Thing 1
+creating code
 
-- Thing 2
+becoming more knowledgeable 
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+being a part of the florida poly team.
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/07/07
