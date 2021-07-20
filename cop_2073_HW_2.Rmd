@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Data Science - HW 2"
-author: "First Name Last name - `flastname@floridapoly.edu`"
+author: "Connor Hardee - `chardee1709@floridapoly.edu`"
 output: html_notebook
 ---
 
