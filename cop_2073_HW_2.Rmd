@@ -22,7 +22,7 @@ a. Make sure your GitHub repo (`practice-repo/`) shows the results of your updat
 b. Include a link to your GitHub repo in this document.
 
 c. Take a screenshot of the GitHub repo, add the screenshot file to the repo, and include it in this document (review how to insert a picture using markdown)
-[![An old rock in the desert](C:\Users\Connor Hardee\Pictures\Saved Pictures\Screenshot for HW2.png "The link should work when you click the picture")](https://github.com/hoxtibals/practice-repo)
+[![An old rock in the desert](https://github.com/hoxtibals/practice-repo/blob/main/Screenshot%20for%20HW2.png?raw=true "The link should work when you click the picture")](https://github.com/hoxtibals/practice-repo)
 
 # Problem 2 (30 points)
 
